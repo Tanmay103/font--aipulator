@@ -1,0 +1,19 @@
+#heading{
+    width: 100%;
+}
+.copy_right_footer{
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    line-height: 3;
+    background-color: gray;
+    color: white;
+}
+body{
+    background-size: cover;
+}
+canvas{
+    border-radius: 20px;
+    border : white solid 3px
+}
